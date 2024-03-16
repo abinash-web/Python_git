@@ -31,3 +31,20 @@ public WebElement Search_btn() {
 
 
 }
+
+
+
+
+New code added 
+
+
+public WebElement Search bar() {
+	return search;
+}
+public WebElement Search_index() {
+	return search_btn;
+}
+
+
+
+}
