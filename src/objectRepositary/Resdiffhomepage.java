@@ -47,4 +47,28 @@ public WebElement Search_index() {
 
 
 
+afternew branch creation
+
+
+
+
+public WebElement Search bar1() {
+	return search;
+}
+public WebElement Search_index1() {
+	return search_btn;
+}
+
+
+
+
+
+public WebElement Search bar2() {
+	return search;
+}
+public WebElement Search_index2() {
+	return search_btn;
+}
+
+
 }
